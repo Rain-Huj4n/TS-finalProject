@@ -25,7 +25,7 @@ score = 0
 lost = 0
 
 max_lost = 20
-goal = 10
+goal = 25
 
 
 
