@@ -10,9 +10,9 @@ fire_sound = mixer.Sound('blow.mp3')
 font.init()
 font2 = font.Font(None, 36)
 
-font1 = font.Font(None, 80)
-win = font1.render("they've been finished", True, (45, 132, 0))
-lose = font1.render("You've been finished", True, (150, 4, 0))
+font1 = font.Font(None, 60)
+win = font1.render("Pindah sana ke kampung lain", True, (45, 132, 0))
+lose = font1.render("Ngantuk ya?", True, (150, 4, 0))
 
 #image
 img_back = "land background.jpg"
